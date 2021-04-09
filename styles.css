@@ -1,0 +1,95 @@
+a {
+    color: black;
+}
+
+.rand {
+    padding: 0;
+    margin: 0;
+}
+
+.ruimte {
+    padding-top: 200px;
+}
+
+.ruim {
+    padding-top: 100px;
+}
+
+.footer_ruimte {
+    padding-top: 20px;
+}
+
+.blur {
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+    height:100vh;
+}
+
+.page-footer {
+    border: 2px;
+    background-color: #0069D9;
+}
+
+.footer-copyright {
+    background-color: #0221ac;
+}
+
+.text {
+    color:white;
+}
+
+.borders {
+    padding: 20px;
+}
+
+.backg {
+    background-color: gray;
+}
+
+.loginheight {
+    height: 500px;
+    padding: 10px;
+    margin-top: 200px;
+}
+
+.userlogin {
+    max-width: 100px;
+}
+
+.registreer {
+    margin-top: 100px;
+}
+
+.imagelogin {
+    padding: 0;
+    height:100vh;
+}
+
+.imagespace {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.responsive {
+  width: 100%;
+  max-width: 800px;
+  height: 500px;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+
+.intro {
+    text-align: center;
+  }
+
+.introfoto {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+}
